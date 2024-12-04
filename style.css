@@ -1,6 +1,9 @@
 .container{
    margin-top: 100px;
 }
+.nav{
+    margin-top: 30px;
+}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
